@@ -194,7 +194,7 @@ Project Link: [https://github.com/adamsimonini/vue-housing](https://github.com/a
 
 <!-- BADGES -->
 
-[vue-shield]: https://img.shields.io/badge/vue-34a677?style=for-the-badge&logo=vue&logoColor=white
+[vue-shield]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
 [vue-url]: https://vuejs.org/
 [vuetify-shield]: https://img.shields.io/badge/vuetify-0769AD?style=for-the-badge&logo=vuetify&logoColor=white
 [vuetify-url]: https://vuetifyjs.com/en/
