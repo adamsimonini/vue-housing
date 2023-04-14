@@ -175,16 +175,16 @@ Project Link: [https://github.com/adamsimonini/vue-housing](https://github.com/a
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/adamsimonini/portfolio-2023.svg?style=for-the-badge
-[contributors-url]: https://github.com/adamsimonini/portfolio-2023/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/adamsimonini/portfolio-2023.svg?style=for-the-badge
-[forks-url]: https://github.com/adamsimonini/portfolio-2023/network/members
-[stars-shield]: https://img.shields.io/github/stars/adamsimonini/portfolio-2023.svg?style=for-the-badge
-[stars-url]: https://github.com/adamsimonini/portfolio-2023/stargazers
-[issues-shield]: https://img.shields.io/github/issues/adamsimonini/portfolio-2023.svg?style=for-the-badge
-[issues-url]: https://github.com/adamsimonini/portfolio-2023/issues
-[license-shield]: https://img.shields.io/github/license/adamsimonini/portfolio-2023.svg?style=for-the-badge
-[license-url]: https://github.com/adamsimonini/portfolio-2023/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/adamsimonini/vue-housing.svg?style=for-the-badge
+[contributors-url]: https://github.com/adamsimonini/vue-housing/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/adamsimonini/vue-housing.svg?style=for-the-badge
+[forks-url]: https://github.com/adamsimonini/vue-housing/network/members
+[stars-shield]: https://img.shields.io/github/stars/adamsimonini/vue-housing.svg?style=for-the-badge
+[stars-url]: https://github.com/adamsimonini/vue-housing/stargazers
+[issues-shield]: https://img.shields.io/github/issues/adamsimonini/vue-housing.svg?style=for-the-badge
+[issues-url]: https://github.com/adamsimonini/vue-housing/issues
+[license-shield]: https://img.shields.io/github/license/adamsimonini/vue-housing.svg?style=for-the-badge
+[license-url]: https://github.com/adamsimonini/vue-housing/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/adamsimonini
 
