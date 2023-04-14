@@ -19,9 +19,11 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
-<br />
+<div id="readme-top"></div>
+<br/>
+
 <div align="center">
-  <h1 align="center">Adam Simonini's Personal & Portfolio Website</h1>
+  <h1 align="center">Ontario's Standard Tenant Lease Form - Digital Prototype </h1>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -54,9 +56,9 @@
 
 ## About
 
-[![Product Name Screen Shot][product-screenshot]](https://adamsimonini.ca)
+[![Digital Ontario Lease Form][product-screenshot]](https://vue-housing-prototype.netlify.app/)
 
-Thank you for checkout out my personal portfolio website. It's custom made. I utilized React to dynamically create project cards based on a JSON file called "projects.js". Although animations are often not best for most websites, I wanted to take the time here to do a few.
+This app prototype was made during a two-day hackathon at Civic Tech Toronto. I worked alongside a cross-functional team of lawyers and researchers. The idea was to take Ontarios official tenant/landlord lease (which is currently a PDF), and create a digital app for it. The benefits to landlords and tenants would be plentify. For example, tenants could log in at any time to see the agreement, and they wouldn't have to worry about losing the paper copy. Tenants would also have piece of mind knowing that the landlord is unable to manipulate the agreement in any way. Landlords would be able to safely store all their leases in one centralized place, and they wouldn't have to deal with paper forms anymore.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -64,9 +66,10 @@ Thank you for checkout out my personal portfolio website. It's custom made. I ut
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-- [![Vue][vue.js]][vue-url]
-- [![Bootstrap][bootstrap.com]][bootstrap-url]
-- [![Tailwind][tailwind.com]][tailwind-url]
+- [![Vue][vue-shield]][vue-url]
+- [![Vuetify][vuetify-shield]][vuetify-url]
+- [![Vuex][vuex-shield]][vuex-url]
+- [![Vue Router][vue-router-shield]][vue-router-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -91,15 +94,15 @@ _Below is an example of how you can instruct your audience on installing and set
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/adamsimonini/portfolio-2023
+   git clone git@github.com:adamsimonini/vue-housing.git
    ```
 2. Install NPM packages
    ```sh
    npm i
    ```
-3. Run dev server via Vite
+3. Run dev server
    ```js
-   npm run dev
+   npm run serve
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -115,10 +118,9 @@ Use this space to show useful examples of how a project can be used. Additional 
 ## Roadmap
 
 - [x] Add frameworks
-- [x] Make project cards dyanmic
-- [ ] Finalize project card design
-- [ ] Add shooting star animation
-- [ ] Add further portfolio projects
+- [x] Make basic UI layout
+- [x] Add form sections
+- [ ] Add supporting information
 
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a full list of proposed features (and known issues).
 
@@ -155,7 +157,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Adam Simonini - [LinkedIn](https://www.linkedin.com/in/adamsimonini/)
 
-Project Link: [https://github.com/adamsimonini/portfolio-2023](https://github.com/adamsimonini/portfolio-2023)
+Project Link: [https://github.com/adamsimonini/vue-housing](https://github.com/adamsimonini/vue-housing)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -166,9 +168,7 @@ Project Link: [https://github.com/adamsimonini/portfolio-2023](https://github.co
 - [Choose an Open Source License](https://choosealicense.com)
 - [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 - [Img Shields](https://shields.io)
-- [GitHub Pages](https://pages.github.com)
 - [Font Awesome](https://fontawesome.com)
-- [React Icons](https://react-icons.github.io/react-icons/search)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -187,24 +187,18 @@ Project Link: [https://github.com/adamsimonini/portfolio-2023](https://github.co
 [license-url]: https://github.com/adamsimonini/portfolio-2023/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/adamsimonini
-[product-screenshot]: src/assets/images/portfolio-pieces/adam-simonini.png
-[next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[next-url]: https://nextjs.org/
-[react.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[react-url]: https://reactjs.org/
-[vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
+
+<!-- SCREENSHOT -->
+
+[product-screenshot]: src/assets/vue-housing.png
+
+<!-- BADGES -->
+
+[vue-shield]: https://img.shields.io/badge/vue-34a677?style=for-the-badge&logo=vue&logoColor=white
 [vue-url]: https://vuejs.org/
-[angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[angular-url]: https://angular.io/
-[svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[svelte-url]: https://svelte.dev/
-[laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[laravel-url]: https://laravel.com
-[bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[bootstrap-url]: https://getbootstrap.com
-[jquery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[jquery-url]: https://jquery.com
-[tailwind.com]: https://img.shields.io/badge/tailwind-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[tailwind-url]: https://tailwindcss.com/
-[vue.com]: https://img.shields.io/badge/vue-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[vue-url]: https://vue.com/
+[vuetify-shield]: https://img.shields.io/badge/vuetify-0769AD?style=for-the-badge&logo=vuetify&logoColor=white
+[vuetify-url]: https://vuetifyjs.com/en/
+[vuex-shield]: https://img.shields.io/badge/vuex-34b17e?style=for-the-badge&logo=vuex&logoColor=white
+[vuex-url]: https://vuex.vuejs.org/
+[vue-router-shield]: https://img.shields.io/badge/vuerouter-black?style=for-the-badge&logo=vuerouter&logoColor=white
+[vue-router-url]: https://router.vuejs.org/
