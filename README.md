@@ -64,8 +64,6 @@ This app prototype was made during a two-day hackathon at Civic Tech Toronto. I 
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
 - [![Vue][vue-shield]][vue-url]
 - [![Vuetify][vuetify-shield]][vuetify-url]
 - [![Vuex][vuex-shield]][vuex-url]
